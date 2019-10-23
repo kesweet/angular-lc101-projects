@@ -1,9 +1,10 @@
 .movies {
     color: purple;
+    border-style: dashed;
 }
 
 h3 {
-    text-align: right;
+    text-align: center;
     color: red;
     font-size: 24px;
 }
